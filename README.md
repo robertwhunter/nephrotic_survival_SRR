@@ -1,5 +1,6 @@
 # Nephrotic survival SRR
-Code used in Kolb et al (2020): Death and ESKD in adult nephrotic syndrome
+Code used in Kolb et al. (2020): A national registry study of patient and renal survival in adult nephrotic syndrome.  
+
 
 ## About
 This repository contains the code that was used to analyse the data presented in our paper, *A national registry study of patient and renal survival in adult nephrotic syndrome* (Kolb et al., KI Reports, 2020).  Here we reproduce the code that we used for our survival analyses and competing risk models and for estimating mortality in age- and sex-matched population.  
