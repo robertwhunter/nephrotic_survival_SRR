@@ -1,4 +1,4 @@
-# OPRINEPH
+# Nephrotic survival SRR
 Code used in Kolb et al (2020): Death and ESKD in adult nephrotic syndrome
 
 ## About
